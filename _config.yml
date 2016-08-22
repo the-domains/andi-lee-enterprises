@@ -1,0 +1,28 @@
+name: Andi Lee Enterprises
+favicon: null
+layout_spectrum: 0.3451849336270243
+typography_spectrum: 0.9400968481786549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9896818068809807
+  lightness: 0.005124733783304691
+  saturation: 0.4361331476829946
+  rhythmicContrast: 0.3659692923538387
+purpose: []
